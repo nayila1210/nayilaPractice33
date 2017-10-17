@@ -34,6 +34,7 @@ public class Animal {
 		System.out.println(Animal.ORGAN);// you can access by calling class name;
 		System.out.println(cat.age);// do not recommend!
 		System.out.println(Animal.age);
+		system.out.println(animal);
 		
 		
 		
